@@ -5,7 +5,6 @@ repo: server-status # The name of this repository
 sites:
   - name: Google
     url: https://www.google.com
-    method: POST
   - name: TMD 17-2148 (CD J6)
     url: $http://166.155.41.117
     method: POST
