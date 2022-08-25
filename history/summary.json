@@ -10,13 +10,53 @@
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 75,
-    "timeDay": 75,
-    "timeWeek": 75,
-    "timeMonth": 75,
-    "timeYear": 75,
+    "time": 77,
+    "timeDay": 77,
+    "timeWeek": 77,
+    "timeMonth": 77,
+    "timeYear": 77,
     "dailyMinutesDown": {
       "2022-08-25": 17
+    }
+  },
+  {
+    "name": "TMD 17-2148 (CD J6)",
+    "url": "http://166.155.41.117",
+    "icon": "https://favicons.githubusercontent.com/166.155.41.117",
+    "slug": "tmd-17-2148-cd-j6",
+    "status": "down",
+    "uptime": "0.05%",
+    "uptimeDay": "0.05%",
+    "uptimeWeek": "0.05%",
+    "uptimeMonth": "0.05%",
+    "uptimeYear": "0.05%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2022-08-25": 31
+    }
+  },
+  {
+    "name": "TMD 17-2148 (CD J6)",
+    "url": "http://166.155.41.117:9300",
+    "icon": "https://favicons.githubusercontent.com/166.155.41.117",
+    "slug": "tmd-17-2148-cd-j6",
+    "status": "down",
+    "uptime": "0.02%",
+    "uptimeDay": "0.02%",
+    "uptimeWeek": "0.02%",
+    "uptimeMonth": "0.02%",
+    "uptimeYear": "0.02%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2022-08-25": 31
     }
   },
   {
@@ -24,6 +64,26 @@
     "url": "$http://166.155.41.117:9300",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "tmd-17-2148-cd-j6",
+    "status": "down",
+    "uptime": "0.04%",
+    "uptimeDay": "0.04%",
+    "uptimeWeek": "0.04%",
+    "uptimeMonth": "0.04%",
+    "uptimeYear": "0.04%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2022-08-25": 31
+    }
+  },
+  {
+    "name": "TMD 17-2155 Laredo HITDA",
+    "url": "$http://166.141.87.55",
+    "icon": "https://favicons.githubusercontent.com/null",
+    "slug": "tmd-17-2155-laredo-hitda",
     "status": "down",
     "uptime": "0.06%",
     "uptimeDay": "0.06%",
@@ -36,27 +96,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-08-25": 29
-    }
-  },
-  {
-    "name": "TMD 17-2155 Laredo HITDA",
-    "url": "$http://166.141.87.55",
-    "icon": "https://favicons.githubusercontent.com/null",
-    "slug": "tmd-17-2155-laredo-hitda",
-    "status": "down",
-    "uptime": "0.07%",
-    "uptimeDay": "0.07%",
-    "uptimeWeek": "0.07%",
-    "uptimeMonth": "0.07%",
-    "uptimeYear": "0.07%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2022-08-25": 29
+      "2022-08-25": 31
     }
   },
   {
@@ -76,7 +116,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-08-25": 29
+      "2022-08-25": 31
     }
   },
   {
@@ -96,7 +136,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-08-25": 29
+      "2022-08-25": 31
     }
   },
   {
@@ -116,7 +156,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-08-25": 29
+      "2022-08-25": 31
     }
   },
   {
@@ -125,18 +165,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "tmd-17-2161-grd-team-room",
     "status": "down",
-    "uptime": "0.07%",
-    "uptimeDay": "0.07%",
-    "uptimeWeek": "0.07%",
-    "uptimeMonth": "0.07%",
-    "uptimeYear": "0.07%",
+    "uptime": "0.05%",
+    "uptimeDay": "0.05%",
+    "uptimeWeek": "0.05%",
+    "uptimeMonth": "0.05%",
+    "uptimeYear": "0.05%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-08-25": 29
+      "2022-08-25": 31
     }
   },
   {
@@ -156,7 +196,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-08-25": 29
+      "2022-08-25": 31
     }
   },
   {
@@ -164,6 +204,46 @@
     "url": "$http://166.155.42.199",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "tmd-17-2168",
+    "status": "down",
+    "uptime": "0.05%",
+    "uptimeDay": "0.05%",
+    "uptimeWeek": "0.05%",
+    "uptimeMonth": "0.05%",
+    "uptimeYear": "0.05%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2022-08-25": 31
+    }
+  },
+  {
+    "name": "TMD 17-2167",
+    "url": "$http://166.155.41.125",
+    "icon": "https://favicons.githubusercontent.com/null",
+    "slug": "tmd-17-2167",
+    "status": "down",
+    "uptime": "0.02%",
+    "uptimeDay": "0.02%",
+    "uptimeWeek": "0.02%",
+    "uptimeMonth": "0.02%",
+    "uptimeYear": "0.02%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2022-08-25": 31
+    }
+  },
+  {
+    "name": "TMD 17-2175",
+    "url": "$http://166.155.42.149",
+    "icon": "https://favicons.githubusercontent.com/null",
+    "slug": "tmd-17-2175",
     "status": "down",
     "uptime": "0.04%",
     "uptimeDay": "0.04%",
@@ -176,47 +256,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-08-25": 29
-    }
-  },
-  {
-    "name": "TMD 17-2167",
-    "url": "$http://166.155.41.125",
-    "icon": "https://favicons.githubusercontent.com/null",
-    "slug": "tmd-17-2167",
-    "status": "down",
-    "uptime": "0.05%",
-    "uptimeDay": "0.05%",
-    "uptimeWeek": "0.05%",
-    "uptimeMonth": "0.05%",
-    "uptimeYear": "0.05%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2022-08-25": 29
-    }
-  },
-  {
-    "name": "TMD 17-2175",
-    "url": "$http://166.155.42.149",
-    "icon": "https://favicons.githubusercontent.com/null",
-    "slug": "tmd-17-2175",
-    "status": "down",
-    "uptime": "0.08%",
-    "uptimeDay": "0.08%",
-    "uptimeWeek": "0.08%",
-    "uptimeMonth": "0.08%",
-    "uptimeYear": "0.08%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2022-08-25": 28
+      "2022-08-25": 31
     }
   },
   {
@@ -225,18 +265,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "tmd-17-2173",
     "status": "down",
-    "uptime": "0.03%",
-    "uptimeDay": "0.03%",
-    "uptimeWeek": "0.03%",
-    "uptimeMonth": "0.03%",
-    "uptimeYear": "0.03%",
+    "uptime": "0.07%",
+    "uptimeDay": "0.07%",
+    "uptimeWeek": "0.07%",
+    "uptimeMonth": "0.07%",
+    "uptimeYear": "0.07%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-08-25": 28
+      "2022-08-25": 31
     }
   },
   {
@@ -245,18 +285,18 @@
     "icon": "https://favicons.githubusercontent.com/166.155.41.224",
     "slug": "tmd-17-2133",
     "status": "down",
-    "uptime": "0.05%",
-    "uptimeDay": "0.05%",
-    "uptimeWeek": "0.05%",
-    "uptimeMonth": "0.05%",
-    "uptimeYear": "0.05%",
+    "uptime": "0.04%",
+    "uptimeDay": "0.04%",
+    "uptimeWeek": "0.04%",
+    "uptimeMonth": "0.04%",
+    "uptimeYear": "0.04%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-08-25": 28
+      "2022-08-25": 31
     }
   },
   {
@@ -276,7 +316,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-08-25": 28
+      "2022-08-25": 31
     }
   },
   {
@@ -285,18 +325,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "tmd-17-2137",
     "status": "down",
-    "uptime": "0.08%",
-    "uptimeDay": "0.08%",
-    "uptimeWeek": "0.08%",
-    "uptimeMonth": "0.08%",
-    "uptimeYear": "0.08%",
+    "uptime": "0.02%",
+    "uptimeDay": "0.02%",
+    "uptimeWeek": "0.02%",
+    "uptimeMonth": "0.02%",
+    "uptimeYear": "0.02%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-08-25": 28
+      "2022-08-25": 31
     }
   },
   {
@@ -316,7 +356,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-08-25": 28
+      "2022-08-25": 31
     }
   },
   {
@@ -325,18 +365,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "tmd-17-2162",
     "status": "down",
-    "uptime": "0.05%",
-    "uptimeDay": "0.05%",
-    "uptimeWeek": "0.05%",
-    "uptimeMonth": "0.05%",
-    "uptimeYear": "0.05%",
+    "uptime": "0.07%",
+    "uptimeDay": "0.07%",
+    "uptimeWeek": "0.07%",
+    "uptimeMonth": "0.07%",
+    "uptimeYear": "0.07%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-08-25": 28
+      "2022-08-25": 31
     }
   },
   {
@@ -345,18 +385,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "tmd-17-2156",
     "status": "down",
-    "uptime": "0.06%",
-    "uptimeDay": "0.06%",
-    "uptimeWeek": "0.06%",
-    "uptimeMonth": "0.06%",
-    "uptimeYear": "0.06%",
+    "uptime": "0.04%",
+    "uptimeDay": "0.04%",
+    "uptimeWeek": "0.04%",
+    "uptimeMonth": "0.04%",
+    "uptimeYear": "0.04%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-08-25": 28
+      "2022-08-25": 31
     }
   },
   {
