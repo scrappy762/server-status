@@ -7,7 +7,6 @@ sites:
     url: https://www.google.com
   - name: TMD 17-2148 (CD J6)
     url: $http://166.155.41.117
-    method: POST
   - name: TMD 17-2155 Laredo HITDA
     url: $http://166.141.87.55
     method: POST
