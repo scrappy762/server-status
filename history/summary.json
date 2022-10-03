@@ -2,7 +2,7 @@
   {
     "name": "Google",
     "url": "https://www.google.com",
-    "icon": "https://favicons.githubusercontent.com/www.google.com",
+    "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "google",
     "status": "up",
     "uptime": "100.00%",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 108,
-    "timeDay": 55,
-    "timeWeek": 86,
-    "timeMonth": 101,
-    "timeYear": 108,
+    "time": 110,
+    "timeDay": 185,
+    "timeWeek": 101,
+    "timeMonth": 106,
+    "timeYear": 110,
     "dailyMinutesDown": {
       "2022-08-25": 17
     }
@@ -22,7 +22,7 @@
   {
     "name": "TMD 17-2148 (CD J6)",
     "url": "http://166.155.41.117",
-    "icon": "https://favicons.githubusercontent.com/166.155.41.117",
+    "icon": "https://icons.duckduckgo.com/ip3/166.155.41.117.ico",
     "slug": "tmd-17-2148-cd-j6",
     "status": "down",
     "uptime": "0.00%",
@@ -36,7 +36,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-02": 61,
+      "2022-10-03": 53,
+      "2022-10-02": 1440,
       "2022-10-01": 1440,
       "2022-09-30": 1440,
       "2022-09-29": 1440,
@@ -80,7 +81,7 @@
   {
     "name": "TMD 17-2148 (CD J6)",
     "url": "http://166.155.41.117:9300",
-    "icon": "https://favicons.githubusercontent.com/166.155.41.117",
+    "icon": "https://icons.duckduckgo.com/ip3/166.155.41.117.ico",
     "slug": "tmd-17-2148-cd-j6",
     "status": "down",
     "uptime": "0.00%",
@@ -94,7 +95,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-02": 61,
+      "2022-10-03": 53,
+      "2022-10-02": 1440,
       "2022-10-01": 1440,
       "2022-09-30": 1440,
       "2022-09-29": 1440,
@@ -138,7 +140,7 @@
   {
     "name": "TMD 17-2148 (CD J6)",
     "url": "$http://166.155.41.117:9300",
-    "icon": "https://favicons.githubusercontent.com/null",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "tmd-17-2148-cd-j6",
     "status": "down",
     "uptime": "0.00%",
@@ -152,7 +154,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-02": 61,
+      "2022-10-03": 53,
+      "2022-10-02": 1440,
       "2022-10-01": 1440,
       "2022-09-30": 1440,
       "2022-09-29": 1440,
@@ -196,7 +199,7 @@
   {
     "name": "TMD 17-2155 Laredo HITDA",
     "url": "$http://166.141.87.55",
-    "icon": "https://favicons.githubusercontent.com/null",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "tmd-17-2155-laredo-hitda",
     "status": "down",
     "uptime": "0.00%",
@@ -210,7 +213,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-02": 61,
+      "2022-10-03": 53,
+      "2022-10-02": 1440,
       "2022-10-01": 1440,
       "2022-09-30": 1440,
       "2022-09-29": 1440,
@@ -254,7 +258,7 @@
   {
     "name": "TMD 17-2149 LC 15-0562",
     "url": "$http://166.155.42.143",
-    "icon": "https://favicons.githubusercontent.com/null",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "tmd-17-2149-lc-15-0562",
     "status": "down",
     "uptime": "0.00%",
@@ -268,7 +272,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-02": 61,
+      "2022-10-03": 53,
+      "2022-10-02": 1440,
       "2022-10-01": 1440,
       "2022-09-30": 1440,
       "2022-09-29": 1440,
@@ -312,7 +317,7 @@
   {
     "name": "TMD 17-2164",
     "url": "$http://166.155.42.145",
-    "icon": "https://favicons.githubusercontent.com/null",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "tmd-17-2164",
     "status": "down",
     "uptime": "0.00%",
@@ -326,7 +331,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-02": 61,
+      "2022-10-03": 53,
+      "2022-10-02": 1440,
       "2022-10-01": 1440,
       "2022-09-30": 1440,
       "2022-09-29": 1440,
@@ -370,7 +376,7 @@
   {
     "name": "TMD 17-2160",
     "url": "$http://166.155.42.200",
-    "icon": "https://favicons.githubusercontent.com/null",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "tmd-17-2160",
     "status": "down",
     "uptime": "0.00%",
@@ -384,7 +390,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-02": 61,
+      "2022-10-03": 53,
+      "2022-10-02": 1440,
       "2022-10-01": 1440,
       "2022-09-30": 1440,
       "2022-09-29": 1440,
@@ -428,7 +435,7 @@
   {
     "name": "TMD 17-2161 (GRD Team Room)",
     "url": "$http://166.155.54.134",
-    "icon": "https://favicons.githubusercontent.com/null",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "tmd-17-2161-grd-team-room",
     "status": "down",
     "uptime": "0.00%",
@@ -442,7 +449,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-02": 61,
+      "2022-10-03": 53,
+      "2022-10-02": 1440,
       "2022-10-01": 1440,
       "2022-09-30": 1440,
       "2022-09-29": 1440,
@@ -486,7 +494,7 @@
   {
     "name": "TMD 17-2131",
     "url": "$http://166.155.41.155",
-    "icon": "https://favicons.githubusercontent.com/null",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "tmd-17-2131",
     "status": "down",
     "uptime": "0.00%",
@@ -500,7 +508,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-02": 61,
+      "2022-10-03": 53,
+      "2022-10-02": 1440,
       "2022-10-01": 1440,
       "2022-09-30": 1440,
       "2022-09-29": 1440,
@@ -544,7 +553,7 @@
   {
     "name": "TMD 17-2168",
     "url": "$http://166.155.42.199",
-    "icon": "https://favicons.githubusercontent.com/null",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "tmd-17-2168",
     "status": "down",
     "uptime": "0.00%",
@@ -558,7 +567,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-02": 61,
+      "2022-10-03": 53,
+      "2022-10-02": 1440,
       "2022-10-01": 1440,
       "2022-09-30": 1440,
       "2022-09-29": 1440,
@@ -602,7 +612,7 @@
   {
     "name": "TMD 17-2167",
     "url": "$http://166.155.41.125",
-    "icon": "https://favicons.githubusercontent.com/null",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "tmd-17-2167",
     "status": "down",
     "uptime": "0.00%",
@@ -616,7 +626,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-02": 61,
+      "2022-10-03": 53,
+      "2022-10-02": 1440,
       "2022-10-01": 1440,
       "2022-09-30": 1440,
       "2022-09-29": 1440,
@@ -660,7 +671,7 @@
   {
     "name": "TMD 17-2175",
     "url": "$http://166.155.42.149",
-    "icon": "https://favicons.githubusercontent.com/null",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "tmd-17-2175",
     "status": "down",
     "uptime": "0.00%",
@@ -674,7 +685,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-02": 61,
+      "2022-10-03": 53,
+      "2022-10-02": 1440,
       "2022-10-01": 1440,
       "2022-09-30": 1440,
       "2022-09-29": 1440,
@@ -718,7 +730,7 @@
   {
     "name": "TMD 17-2173",
     "url": "$http://166.155.42.202",
-    "icon": "https://favicons.githubusercontent.com/null",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "tmd-17-2173",
     "status": "down",
     "uptime": "0.00%",
@@ -732,7 +744,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-02": 61,
+      "2022-10-03": 53,
+      "2022-10-02": 1440,
       "2022-10-01": 1440,
       "2022-09-30": 1440,
       "2022-09-29": 1440,
@@ -776,7 +789,7 @@
   {
     "name": "TMD 17-2133",
     "url": "http://166.155.41.224",
-    "icon": "https://favicons.githubusercontent.com/166.155.41.224",
+    "icon": "https://icons.duckduckgo.com/ip3/166.155.41.224.ico",
     "slug": "tmd-17-2133",
     "status": "down",
     "uptime": "0.00%",
@@ -790,7 +803,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-02": 61,
+      "2022-10-03": 53,
+      "2022-10-02": 1440,
       "2022-10-01": 1440,
       "2022-09-30": 1440,
       "2022-09-29": 1440,
@@ -834,7 +848,7 @@
   {
     "name": "TMD 17-2134",
     "url": "$http://166.155.41.153",
-    "icon": "https://favicons.githubusercontent.com/null",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "tmd-17-2134",
     "status": "down",
     "uptime": "0.00%",
@@ -848,7 +862,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-02": 61,
+      "2022-10-03": 53,
+      "2022-10-02": 1440,
       "2022-10-01": 1440,
       "2022-09-30": 1440,
       "2022-09-29": 1440,
@@ -892,7 +907,7 @@
   {
     "name": "TMD 17-2137",
     "url": "$http://166.155.42.201",
-    "icon": "https://favicons.githubusercontent.com/null",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "tmd-17-2137",
     "status": "down",
     "uptime": "0.00%",
@@ -906,7 +921,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-02": 61,
+      "2022-10-03": 53,
+      "2022-10-02": 1440,
       "2022-10-01": 1440,
       "2022-09-30": 1440,
       "2022-09-29": 1440,
@@ -950,7 +966,7 @@
   {
     "name": "TMD 17-2146",
     "url": "$http://166.155.41.127",
-    "icon": "https://favicons.githubusercontent.com/null",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "tmd-17-2146",
     "status": "down",
     "uptime": "0.00%",
@@ -964,7 +980,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-02": 61,
+      "2022-10-03": 53,
+      "2022-10-02": 1440,
       "2022-10-01": 1440,
       "2022-09-30": 1440,
       "2022-09-29": 1440,
@@ -1008,7 +1025,7 @@
   {
     "name": "TMD 17-2162",
     "url": "$http://166.155.41.208",
-    "icon": "https://favicons.githubusercontent.com/null",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "tmd-17-2162",
     "status": "down",
     "uptime": "0.00%",
@@ -1022,7 +1039,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-02": 61,
+      "2022-10-03": 53,
+      "2022-10-02": 1440,
       "2022-10-01": 1440,
       "2022-09-30": 1440,
       "2022-09-29": 1440,
@@ -1066,7 +1084,7 @@
   {
     "name": "TMD 17-2156",
     "url": "$http://166.155.41.226",
-    "icon": "https://favicons.githubusercontent.com/null",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "tmd-17-2156",
     "status": "down",
     "uptime": "0.00%",
@@ -1080,7 +1098,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-02": 61,
+      "2022-10-03": 53,
+      "2022-10-02": 1440,
       "2022-10-01": 1440,
       "2022-09-30": 1440,
       "2022-09-29": 1440,
@@ -1124,7 +1143,7 @@
   {
     "name": "Test Broken Site",
     "url": "$https://thissitedoesnotexist.koj.co",
-    "icon": "https://favicons.githubusercontent.com/null",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "test-broken-site",
     "status": "down",
     "uptime": "100.00%",
